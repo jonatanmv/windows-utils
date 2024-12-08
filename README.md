@@ -3,7 +3,6 @@
 ## Buttons for Hibernate and Shutdown
 
 - Shutdown
-> %windir%\System32\shutdown.exe /s /f /t 0
 ```
 %windir%\System32\shutdown.exe /s /f /t 0
 ```
